@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/orthographic/applejack_side.png",
+  "sha256": "823e5f4929e95e6f8cc00c5909e2eed85c15e282265b4c38d5d2d5b062fd06d5",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    900,
+    1000
+  ],
+  "samples": 8,
+  "camera": "Camera | side",
+  "units": "meters",
+  "render_seconds": 21.966,
+  "sources": [
+    {
+      "id": "applejack",
+      "file": "outputs/color/applejack.glb",
+      "sha256": "2462ea27753e2151481b90e4aa649082d2e3d4a255f4745981486c68b664c80b"
+    }
+  ]
+}

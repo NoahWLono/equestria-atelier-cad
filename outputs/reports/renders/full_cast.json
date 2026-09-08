@@ -1,0 +1,61 @@
+{
+  "image": "outputs/renders/full_cast.png",
+  "sha256": "8b32c21f5158e7ef3b872dedad049e879ab5f96f70eaeb92a0901684316cb3e5",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    3600,
+    1900
+  ],
+  "samples": 16,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 337.801,
+  "sources": [
+    {
+      "id": "applejack",
+      "file": "outputs/color/applejack.glb",
+      "sha256": "2462ea27753e2151481b90e4aa649082d2e3d4a255f4745981486c68b664c80b"
+    },
+    {
+      "id": "clockwork_relativity",
+      "file": "outputs/color/clockwork_relativity.glb",
+      "sha256": "b4a5d32e1351ad31bec72c7e30685e8147fa22a14638f07cc9abadd9782fffdb"
+    },
+    {
+      "id": "fluttershy",
+      "file": "outputs/color/fluttershy.glb",
+      "sha256": "f8c904412bad2921270a9db1fcd8f4ebb50fd9dbfd00e2e4903b1741c53df5a0"
+    },
+    {
+      "id": "pinkie_pie",
+      "file": "outputs/color/pinkie_pie.glb",
+      "sha256": "dfcd1f3d96d30f032e4d33d056c67f23f94eaa84838961bbf18c9b7dab5ed29f"
+    },
+    {
+      "id": "princess_celestia",
+      "file": "outputs/color/princess_celestia.glb",
+      "sha256": "f78bf2908a3e48646f14cfbbb38c2b89966c6ad52affb309ee86ce013e2676d8"
+    },
+    {
+      "id": "princess_luna",
+      "file": "outputs/color/princess_luna.glb",
+      "sha256": "c4ec509aac756b93ca2f5f2473c7eb88c07a3a350904e0965f91032d6186096f"
+    },
+    {
+      "id": "rainbow_dash",
+      "file": "outputs/color/rainbow_dash.glb",
+      "sha256": "a586861e2dcce0b95c8f8208ae09d13aa3e76ff189870292a8c18f5bbbe223ce"
+    },
+    {
+      "id": "rarity",
+      "file": "outputs/color/rarity.glb",
+      "sha256": "2e4c192c781aa4ecee1faab327881083bccbd194eb1d292d4c6ddda088b37557"
+    },
+    {
+      "id": "twilight_sparkle",
+      "file": "outputs/color/twilight_sparkle.glb",
+      "sha256": "2965f17e9d2fdada4ac862ad1dd6c41c1dee58425c507ebc85d12feb3a5c6824"
+    }
+  ]
+}

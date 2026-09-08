@@ -1,0 +1,26 @@
+{
+  "image": "outputs/renders/luna_and_clockwork.png",
+  "sha256": "b9f45d13ef0587032270a827ed3b7ecb4b2d67c569a5b3e6f2362f24e5c4f749",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    2400,
+    2000
+  ],
+  "samples": 16,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 258.099,
+  "sources": [
+    {
+      "id": "clockwork_relativity",
+      "file": "outputs/color/clockwork_relativity.glb",
+      "sha256": "b4a5d32e1351ad31bec72c7e30685e8147fa22a14638f07cc9abadd9782fffdb"
+    },
+    {
+      "id": "princess_luna",
+      "file": "outputs/color/princess_luna.glb",
+      "sha256": "c4ec509aac756b93ca2f5f2473c7eb88c07a3a350904e0965f91032d6186096f"
+    }
+  ]
+}

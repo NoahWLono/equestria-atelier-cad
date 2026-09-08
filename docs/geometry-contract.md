@@ -1,0 +1,18 @@
+# Equestria collection geometry contract
+
+Coordinates and dimensions are millimeters. X points toward the nose, Y spans the two flanks, Z points up. Every character stands on a base starting at Z=0. Parts overlap intentionally to form a single printable union, while colored STEP assemblies retain named design components.
+
+`source/design.py` writes `outputs/collection.json`, with `{title, version, units:"mm", characters:[{id,name,tagline,parts:[...]}]}`. Every part has `name`, `kind`, and `color` (hex RGB). Supported kinds:
+
+- `ellipsoid`: `center:[x,y,z]`, `radii:[rx,ry,rz]`, optional `rotation:[xdeg,ydeg,zdeg]` applied in XYZ order about center.
+- `tube`: `points:[[x,y,z],...]`, `radii:[r,...]` of matching length. Smooth Catmull-Rom sampling of centerline and radius; circular sections oriented normal to centerline. Closed end caps. Each original adjacent point pair gets 4 subdivisions. Minimum radius is 0.25 mm. Use lofted BRep circles with ruled=False; derive mesh geometry from the BRep so solid and mesh exports share the construction source.
+- `cone`: `start:[x,y,z]`, `end:[x,y,z]`, `r1`, `r2`. End radii positive, including blunt horn tips.
+- `cylinder`: `center:[x,y,z]` is bottom center, `radius`, `height`, optional `rotation` around bottom center.
+- `polygon`: `points:[[u,v],...]`, `origin:[x,y,z]`, `u:[ux,uy,uz]`, `v:[vx,vy,vz]`, `depth`. Extrude along normalized cross(u,v) by positive depth. u and v are orthonormal. Polygon points are ordered counterclockwise in UV.
+- `text`: `text`, `center:[x,y,z]` is center of baseline region, `size`, `depth`; optional `rotation` XYZ around text center. Default lies in XY and extrudes +Z. Text is centered in X/Y; sans bold preferred.
+
+Each CAD part must be a valid positive-volume solid or compound of valid positive-volume solids. Export a color STEP assembly with named components, per-character GLB preserving component colors, and fully boolean-unioned STL. Do not silently drop invalid geometry or disconnected pieces; report and fail the build so the design can be corrected. Tessellate BRep geometry with an angular setting of 0.12 rad and an absolute linear deflection setting of 0.10 mm. Preserve the raw manifold3d union without post-union simplification. Write STL as ASCII using decimal coordinates that preserve the union's float64 values, then import the file back and require watertightness, consistent winding, and one connected shell. These settings do not certify manufacturing accuracy. GLB is stored in meters using standard Y-up convention; local Blender import must match. The mesh scene uses each part's material color and part name.
+
+STL regeneration must match the current character design. A GLB source must retain the expected component names and match each component's bounds to the original tessellation report within 0.001 mm. A STEP source must preserve the validated imported solid count and assembly bounds before fresh float64 tessellation at the documented absolute tolerances. Record the source in `stl_repair`, including the relevant source hashes and geometry comparisons. The GLB path starts from float32 positions; both paths write the resulting float64 union coordinates to ASCII STL and require the saved file to pass import-back checks.
+
+Output paths: `outputs/step/{id}.step`, `outputs/stl/{id}.stl`, `outputs/color/{id}.glb`, `outputs/reports/{id}.json`. Per-character reports record named CAD component validity, counts, mesh watertightness, connected shell count, extents, volume, triangle count, and import-back STEP validation. Final report and SHA256 sums assembled after all exports. `--only ID` must support independent runs.

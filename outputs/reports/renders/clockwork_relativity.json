@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/clockwork_relativity.png",
+  "sha256": "43347f0b838698665930b5aed5e667687913eb602a084d81995409dc50224d61",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    1200,
+    1400
+  ],
+  "samples": 32,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 229.066,
+  "sources": [
+    {
+      "id": "clockwork_relativity",
+      "file": "outputs/color/clockwork_relativity.glb",
+      "sha256": "b4a5d32e1351ad31bec72c7e30685e8147fa22a14638f07cc9abadd9782fffdb"
+    }
+  ]
+}

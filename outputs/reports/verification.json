@@ -1,0 +1,206 @@
+{
+  "status": "passed",
+  "characters": [
+    {
+      "id": "twilight_sparkle",
+      "name": "Twilight Sparkle",
+      "status": "passed",
+      "cad_components": 95,
+      "cad_solids": 109,
+      "stl_triangles": 271490,
+      "extents_mm": [
+        86.725,
+        85.99,
+        90.132
+      ],
+      "volume_mm3": 88636.027,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "a206931c334fca8a06a605ece9ae2f2f611002ff5ec541aefb47e9c306679988",
+      "sha256": {
+        "stl": "8976ce746994890727a56560e47b8ebe666dd341e5223887f375669ddb8fcb42",
+        "step": "285520e97a16b49fed8b841ad931ecd47147f2fdb3b1143041dd2d75a1edf2e5",
+        "glb": "2965f17e9d2fdada4ac862ad1dd6c41c1dee58425c507ebc85d12feb3a5c6824"
+      }
+    },
+    {
+      "id": "applejack",
+      "name": "Applejack",
+      "status": "passed",
+      "cad_components": 84,
+      "cad_solids": 92,
+      "stl_triangles": 191508,
+      "extents_mm": [
+        85.981,
+        85.99,
+        94.849
+      ],
+      "volume_mm3": 87011.157,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "8b97520d6c672c03929f83ef4dc6a576931256ebe565db28e4d243311407071e",
+      "sha256": {
+        "stl": "447fb41799c9a092d8b51d1cbbc3f82707ae2d511a00689f67e63180cc6e78bd",
+        "step": "678ca18ebb16444670105ef8b9672fa5664e8f8738e6599e6e1849e0e8e2b9ee",
+        "glb": "2462ea27753e2151481b90e4aa649082d2e3d4a255f4745981486c68b664c80b"
+      }
+    },
+    {
+      "id": "rainbow_dash",
+      "name": "Rainbow Dash",
+      "status": "passed",
+      "cad_components": 88,
+      "cad_solids": 98,
+      "stl_triangles": 271384,
+      "extents_mm": [
+        86.453,
+        85.99,
+        89.318
+      ],
+      "volume_mm3": 85631.422,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "d872b75a76188948b2745b00e9a6d4c4d166a142341810aeec28387c5e0a4166",
+      "sha256": {
+        "stl": "57b76b1c5c75bc01c881c89b298e8168b442bc45d3dfa88f50054f9fa139aa1f",
+        "step": "ae70a72b6faa68028723e8ee9f9214f9675199bf0c1bce74bbbf8d7f463d6eaa",
+        "glb": "a586861e2dcce0b95c8f8208ae09d13aa3e76ff189870292a8c18f5bbbe223ce"
+      }
+    },
+    {
+      "id": "pinkie_pie",
+      "name": "Pinkie Pie",
+      "status": "passed",
+      "cad_components": 81,
+      "cad_solids": 89,
+      "stl_triangles": 215752,
+      "extents_mm": [
+        90.038,
+        85.99,
+        89.28
+      ],
+      "volume_mm3": 87038.494,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "d2527afc459b998d3dd67e9d3c9579331d856d8f6e506753cc0d1a0e8d967b40",
+      "sha256": {
+        "stl": "8493b5f6f228d9c0c16cadede7dcf36e0c5b5afd87be41859c5a277429689b49",
+        "step": "59caf0e12e6a2763263e848f2f63be2ffb04325d4e12bf579fcc56851b098fbb",
+        "glb": "dfcd1f3d96d30f032e4d33d056c67f23f94eaa84838961bbf18c9b7dab5ed29f"
+      }
+    },
+    {
+      "id": "fluttershy",
+      "name": "Fluttershy",
+      "status": "passed",
+      "cad_components": 100,
+      "cad_solids": 109,
+      "stl_triangles": 218832,
+      "extents_mm": [
+        86.343,
+        85.99,
+        88.733
+      ],
+      "volume_mm3": 93943.768,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "3c7df7952d0d9e4eef45a0fa9a5b1d97f0e3185073baed19a7b3dd2795314cd5",
+      "sha256": {
+        "stl": "4b7b1e33b9c79b26ef8859e98691c5ee71acd5b91c24183cde39fe04816290ac",
+        "step": "1e8ee768ca859a69fae3a7d4b1ab68d132408c157a5af2a3877c98fb88a3fe93",
+        "glb": "f8c904412bad2921270a9db1fcd8f4ebb50fd9dbfd00e2e4903b1741c53df5a0"
+      }
+    },
+    {
+      "id": "rarity",
+      "name": "Rarity",
+      "status": "passed",
+      "cad_components": 84,
+      "cad_solids": 89,
+      "stl_triangles": 269204,
+      "extents_mm": [
+        89.886,
+        85.99,
+        90.132
+      ],
+      "volume_mm3": 93192.498,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "61882e362da7a4ef3b39ef6661f63e6edc5577ecd6e612a53213fe0eaedb4369",
+      "sha256": {
+        "stl": "8752229ec45a85722ac98b93f5e3d35297df4b1df74cd123a3cbd25f03e0e130",
+        "step": "9f82017acb170e6250c17f2cbac9a5a87973012bc4c771ff27751855ec4fe613",
+        "glb": "2e4c192c781aa4ecee1faab327881083bccbd194eb1d292d4c6ddda088b37557"
+      }
+    },
+    {
+      "id": "princess_celestia",
+      "name": "Princess Celestia",
+      "status": "passed",
+      "cad_components": 107,
+      "cad_solids": 114,
+      "stl_triangles": 369774,
+      "extents_mm": [
+        114.103,
+        106.208,
+        132.303
+      ],
+      "volume_mm3": 182481.33,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "69874f89ca4f2295395eee30be72f82555691150f5884d3cd2b97600c8382d48",
+      "sha256": {
+        "stl": "131636b6b975cb4646a5f28a3a939d14c267db1fac485ebd201559203b10d6f2",
+        "step": "7aa36904f45fb0bd4e429922fcf2067dfd2fe3d58e50760090141f1f41840b13",
+        "glb": "f78bf2908a3e48646f14cfbbb38c2b89966c6ad52affb309ee86ce013e2676d8"
+      }
+    },
+    {
+      "id": "princess_luna",
+      "name": "Princess Luna",
+      "status": "passed",
+      "cad_components": 111,
+      "cad_solids": 114,
+      "stl_triangles": 377492,
+      "extents_mm": [
+        108.054,
+        100.569,
+        116.718
+      ],
+      "volume_mm3": 149765.149,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "7889a7200b688f745e922d0a666d57e1b5fe47c6495fce337ab7dd36e7067596",
+      "sha256": {
+        "stl": "b26274d93edd79af5f33f073a82b1d3b9b0f46f31d1eae35436f190bbd7dd671",
+        "step": "f36fbb06f3a30c9f725f0526057ff65606565063bba374b7f6dc2c3b4d9f1e85",
+        "glb": "c4ec509aac756b93ca2f5f2473c7eb88c07a3a350904e0965f91032d6186096f"
+      }
+    },
+    {
+      "id": "clockwork_relativity",
+      "name": "Clockwork Relativity",
+      "status": "passed",
+      "cad_components": 85,
+      "cad_solids": 103,
+      "stl_triangles": 269582,
+      "extents_mm": [
+        86.299,
+        85.99,
+        92.046
+      ],
+      "volume_mm3": 86660.317,
+      "watertight": true,
+      "connected_shells": 1,
+      "design_sha256": "c73f7c9c88d14d169cb5cb59892b9b926eb1ba1a4490271d34e39c5af785656a",
+      "sha256": {
+        "stl": "91641db0001d9e7dbee6450d3f3213149d8d47d4032cbc04552b6fc8a61e0041",
+        "step": "fd01319d43e26c8d4645e8e934d2dff8dda75d14aa5dbfd3c9042a665dd9be52",
+        "glb": "b4a5d32e1351ad31bec72c7e30685e8147fa22a14638f07cc9abadd9782fffdb"
+      }
+    }
+  ],
+  "failures": [],
+  "geometry_only": false,
+  "physical_print_tested": false
+}

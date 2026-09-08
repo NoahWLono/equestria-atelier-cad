@@ -1,0 +1,214 @@
+{
+  "collection": {
+    "file": "collection.json",
+    "sha256": "26c16fbd8ab30f311d5ea47b40e5c08bab9cdb737af763762a0ea29f6c786882"
+  },
+  "sources": [
+    {
+      "file": "renders/twilight_sparkle.png",
+      "sha256": "aa9fc806a75174372d79a5fa7fa0c1ee1ab6d952ca472948822c62c7eb9d7f8d"
+    },
+    {
+      "file": "renders/applejack.png",
+      "sha256": "0c6781648066962c6814f84ff4de27dd049bb8847b2bcd698a6a5588862f382f"
+    },
+    {
+      "file": "renders/rainbow_dash.png",
+      "sha256": "fb74896c56aa51af74afa8f0997b9195a4c62f68f0c4c985891fbb3ba6ed1369"
+    },
+    {
+      "file": "renders/pinkie_pie.png",
+      "sha256": "5503f2871b04b0ffe0365d3154a913ba3a90ca1533debd7daaafd26d6c7d74f9"
+    },
+    {
+      "file": "renders/fluttershy.png",
+      "sha256": "661e9a4af8f1fb781d99ac6fc33d8e15495324364b93ff1723fe75729040794f"
+    },
+    {
+      "file": "renders/rarity.png",
+      "sha256": "34c9101b6786ad29bf1c39770bd22c89bbdb73dbf93d53c77ee11fdf4b305f90"
+    },
+    {
+      "file": "renders/princess_celestia.png",
+      "sha256": "9605dfdf639f967764e65990aaca5d514a4ed00a5f62153eb007c7782dada1a6"
+    },
+    {
+      "file": "renders/princess_luna.png",
+      "sha256": "e333f830a2d7e59148c9dd827d37d090af0149cf846e20d59af9de23befb9649"
+    },
+    {
+      "file": "renders/clockwork_relativity.png",
+      "sha256": "43347f0b838698665930b5aed5e667687913eb602a084d81995409dc50224d61"
+    },
+    {
+      "file": "renders/full_cast.png",
+      "sha256": "8b32c21f5158e7ef3b872dedad049e879ab5f96f70eaeb92a0901684316cb3e5"
+    },
+    {
+      "file": "renders/luna_and_clockwork.png",
+      "sha256": "b9f45d13ef0587032270a827ed3b7ecb4b2d67c569a5b3e6f2362f24e5c4f749"
+    },
+    {
+      "file": "renders/orthographic/twilight_sparkle_front.png",
+      "sha256": "58143d2fe441464ba5bd038c5495c87a5f275b4a7065ff4d689b3c4f4549ea28"
+    },
+    {
+      "file": "renders/orthographic/twilight_sparkle_side.png",
+      "sha256": "498f32d01f43a97fb216085f4df599a46310acf4cac2fc1025563128f1f18c8b"
+    },
+    {
+      "file": "renders/orthographic/twilight_sparkle_back.png",
+      "sha256": "35968ca1f041f4beb02667af65c2be92e3465c24fe5236ecfb00287e058fc2a4"
+    },
+    {
+      "file": "renders/orthographic/applejack_front.png",
+      "sha256": "cc88d455fd90a8ddbb1dff32dc64acc7927fad5897b2ea3114921b68c9b3d048"
+    },
+    {
+      "file": "renders/orthographic/applejack_side.png",
+      "sha256": "823e5f4929e95e6f8cc00c5909e2eed85c15e282265b4c38d5d2d5b062fd06d5"
+    },
+    {
+      "file": "renders/orthographic/applejack_back.png",
+      "sha256": "3ce9e5404777628b3340744094373af099a6823222543afee1dcfc555134a481"
+    },
+    {
+      "file": "renders/orthographic/rainbow_dash_front.png",
+      "sha256": "2dbbdb1b1f6af7ed9a16ad5e662789e36a86672353ae25bd196d894c8894b83e"
+    },
+    {
+      "file": "renders/orthographic/rainbow_dash_side.png",
+      "sha256": "cacd1aea21bbfcdbf1cacda6f1256e9c840f4cee3dc4a14ae57bb4b2ef91011d"
+    },
+    {
+      "file": "renders/orthographic/rainbow_dash_back.png",
+      "sha256": "1b1c553afee6167b75e194d8c86175fa5b84f8357ae132623e68a378b170e31a"
+    },
+    {
+      "file": "renders/orthographic/pinkie_pie_front.png",
+      "sha256": "eba6aefa62de71d6928fb706844df7566227a40e8b47177806970e515e574118"
+    },
+    {
+      "file": "renders/orthographic/pinkie_pie_side.png",
+      "sha256": "78375a761d7b4c35ebc204c55197f4ba661a893c113828e0c35366a3047a2e22"
+    },
+    {
+      "file": "renders/orthographic/pinkie_pie_back.png",
+      "sha256": "a3c3643b9ad3cc3970fff3565bdd320cb9b2b44a161038cb70b462fe00c9eb05"
+    },
+    {
+      "file": "renders/orthographic/fluttershy_front.png",
+      "sha256": "8521c9f2db78ea904c0e991fa1b3adde43471f58c757a0c3933649c66f412da0"
+    },
+    {
+      "file": "renders/orthographic/fluttershy_side.png",
+      "sha256": "1c6eb03d8d857d9bb86459ea3ea71b0e356602e4b6d99d7791a53219b61978a3"
+    },
+    {
+      "file": "renders/orthographic/fluttershy_back.png",
+      "sha256": "06eaa071dad7539119153c7623577d70db07fabcb6a39f1d7161c877462a7dc6"
+    },
+    {
+      "file": "renders/orthographic/rarity_front.png",
+      "sha256": "80d7ab72807ae34ae5fd1b456ccfff5e995fd2efa9ffc362f4b198f07a7d030f"
+    },
+    {
+      "file": "renders/orthographic/rarity_side.png",
+      "sha256": "1d7abcae6295f0f56173eee88c0f37adffe789d70a31c27c2861d9904cf69db8"
+    },
+    {
+      "file": "renders/orthographic/rarity_back.png",
+      "sha256": "9cf525c3d13b155fbf89d8aa50a32426d4911e7de639415bd198fb6becc4cac9"
+    },
+    {
+      "file": "renders/orthographic/princess_celestia_front.png",
+      "sha256": "5f67ae67948c1a3ec806b6d611d3b5ec1a91d43638dcc04015dfa17e1ab2a5aa"
+    },
+    {
+      "file": "renders/orthographic/princess_celestia_side.png",
+      "sha256": "dbeb9b090b318ca963c0a9760a6a161bd7afd1e07c437ae6852a891bb61a1b8a"
+    },
+    {
+      "file": "renders/orthographic/princess_celestia_back.png",
+      "sha256": "2ff2d1215246ab4585530dc15b179c0151087ab6c2f6f00d0dd5646733e2d0f3"
+    },
+    {
+      "file": "renders/orthographic/princess_luna_front.png",
+      "sha256": "aff258607dcac94fcba19c8498b2bd6d38b0a560764d972c4374f27e9d501d5c"
+    },
+    {
+      "file": "renders/orthographic/princess_luna_side.png",
+      "sha256": "563b251dc9f8e1faa26c75cfbc51f4594c6b6334c551c6860f0d126cbcc27a32"
+    },
+    {
+      "file": "renders/orthographic/princess_luna_back.png",
+      "sha256": "2bf68b1a00e341e2700bffd3a4eb2052e0052a78a9cbbb7dec932088ff0f9f52"
+    },
+    {
+      "file": "renders/orthographic/clockwork_relativity_front.png",
+      "sha256": "2ba61b80201dc8f23ac8e516ba381e0c65392d3a4df71abbbfb21e1c40c2e641"
+    },
+    {
+      "file": "renders/orthographic/clockwork_relativity_side.png",
+      "sha256": "17b9edc03d3d577a57810d60d3ef4d03393c4ad9f9ca8d828cc40f7a0a6c40c0"
+    },
+    {
+      "file": "renders/orthographic/clockwork_relativity_back.png",
+      "sha256": "0629acbb73fbfdf44ac7727b993e3174df77757dbe3f64471608001be0d1ba2a"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "renders/collection_catalog.png",
+      "sha256": "87aebc758fea537312c13fc8e46e858e80d82142269eedb2dfcbf9a56243a4f0"
+    },
+    {
+      "file": "renders/collection_catalog.jpg",
+      "sha256": "ab7b337c1528705ab7ffbc8073390123a9210602504beeebf8554e911ab5c1a4"
+    },
+    {
+      "file": "renders/collection_hero.png",
+      "sha256": "aed399c57fa93aeee01a162b0059ef2f390942ba54e6031c4a2398bafd2e5a5b"
+    },
+    {
+      "file": "renders/luna_and_clockwork_plate.png",
+      "sha256": "8d3a26e922d5c1d162f1f9e9181b959650472ed34fd342ac99619d817ded0d6c"
+    },
+    {
+      "file": "renders/orthographic/twilight_sparkle_sheet.png",
+      "sha256": "44c59e05c75d72583393c0040aed30a38b0d9f8be35759ea87890c17521f952c"
+    },
+    {
+      "file": "renders/orthographic/applejack_sheet.png",
+      "sha256": "554e0899625d45fda9953ba3f1c7d26cd144eaf1fa94c743d7558050fa495330"
+    },
+    {
+      "file": "renders/orthographic/rainbow_dash_sheet.png",
+      "sha256": "97d769418a9d9527d1c6c58d33b151c579d95577c0898a5c1c6d06313677ed24"
+    },
+    {
+      "file": "renders/orthographic/pinkie_pie_sheet.png",
+      "sha256": "7dc37897165f92c34eeb6a622ca7273343be72bada408340bba3e9042e4b382c"
+    },
+    {
+      "file": "renders/orthographic/fluttershy_sheet.png",
+      "sha256": "6c78a3b8ee4889a70078c6e1b531e74f174ed5c70ae0bc78d015ba066d00db5f"
+    },
+    {
+      "file": "renders/orthographic/rarity_sheet.png",
+      "sha256": "234c459cf4fc5ecb486cb34b775fdada5648548e8f5811edc9f18996eed80c2e"
+    },
+    {
+      "file": "renders/orthographic/princess_celestia_sheet.png",
+      "sha256": "d58fd9a89fdf2c50f53bc8cca32f3d6c42b4434ba06fe24e51173ef1161dc8d5"
+    },
+    {
+      "file": "renders/orthographic/princess_luna_sheet.png",
+      "sha256": "0172b3c0e8e1954f830aa7a32ed1d39414602ecc79366339627462e860f5ff6a"
+    },
+    {
+      "file": "renders/orthographic/clockwork_relativity_sheet.png",
+      "sha256": "7883fa4e0d057abb435be634e0bb3d7b51770ca260120f210dae4f561310cad5"
+    }
+  ]
+}

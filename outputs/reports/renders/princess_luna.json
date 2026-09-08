@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/princess_luna.png",
+  "sha256": "e333f830a2d7e59148c9dd827d37d090af0149cf846e20d59af9de23befb9649",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    1200,
+    1400
+  ],
+  "samples": 16,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 64.735,
+  "sources": [
+    {
+      "id": "princess_luna",
+      "file": "outputs/color/princess_luna.glb",
+      "sha256": "c4ec509aac756b93ca2f5f2473c7eb88c07a3a350904e0965f91032d6186096f"
+    }
+  ]
+}

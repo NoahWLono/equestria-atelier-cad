@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/orthographic/rarity_front.png",
+  "sha256": "80d7ab72807ae34ae5fd1b456ccfff5e995fd2efa9ffc362f4b198f07a7d030f",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    900,
+    1000
+  ],
+  "samples": 8,
+  "camera": "Camera | front",
+  "units": "meters",
+  "render_seconds": 19.12,
+  "sources": [
+    {
+      "id": "rarity",
+      "file": "outputs/color/rarity.glb",
+      "sha256": "2e4c192c781aa4ecee1faab327881083bccbd194eb1d292d4c6ddda088b37557"
+    }
+  ]
+}

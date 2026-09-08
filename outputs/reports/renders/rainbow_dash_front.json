@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/orthographic/rainbow_dash_front.png",
+  "sha256": "2dbbdb1b1f6af7ed9a16ad5e662789e36a86672353ae25bd196d894c8894b83e",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    900,
+    1000
+  ],
+  "samples": 8,
+  "camera": "Camera | front",
+  "units": "meters",
+  "render_seconds": 18.136,
+  "sources": [
+    {
+      "id": "rainbow_dash",
+      "file": "outputs/color/rainbow_dash.glb",
+      "sha256": "a586861e2dcce0b95c8f8208ae09d13aa3e76ff189870292a8c18f5bbbe223ce"
+    }
+  ]
+}

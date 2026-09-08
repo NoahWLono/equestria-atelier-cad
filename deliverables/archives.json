@@ -1,0 +1,23 @@
+[
+  {
+    "file": "Equestria-Atelier-Complete-9-Figure-Set.zip",
+    "sha256": "d2e4c3f83a03ba30afae963c558b5032f5489c3b537480398b0a103d775e0c50",
+    "bytes": 336671519,
+    "files": 153,
+    "archive_crc_and_sha256_verified": true
+  },
+  {
+    "file": "Equestria-Atelier-STEP-CAD.zip",
+    "sha256": "9848fb85fb9d9c640b3c508a1534903b984d35d9e7312e52d9feb68bd472e1a4",
+    "bytes": 5429916,
+    "files": 19,
+    "archive_crc_and_sha256_verified": true
+  },
+  {
+    "file": "Equestria-Atelier-STL-Print-Meshes.zip",
+    "sha256": "c712c5e929b243becca8f0f171a0b0e91fda594e9d89c41afb760cdf2c141394",
+    "bytes": 131841680,
+    "files": 19,
+    "archive_crc_and_sha256_verified": true
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/orthographic/twilight_sparkle_side.png",
+  "sha256": "498f32d01f43a97fb216085f4df599a46310acf4cac2fc1025563128f1f18c8b",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    900,
+    1000
+  ],
+  "samples": 8,
+  "camera": "Camera | side",
+  "units": "meters",
+  "render_seconds": 20.382,
+  "sources": [
+    {
+      "id": "twilight_sparkle",
+      "file": "outputs/color/twilight_sparkle.glb",
+      "sha256": "2965f17e9d2fdada4ac862ad1dd6c41c1dee58425c507ebc85d12feb3a5c6824"
+    }
+  ]
+}

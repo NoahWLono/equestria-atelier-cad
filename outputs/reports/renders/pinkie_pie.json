@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/pinkie_pie.png",
+  "sha256": "5503f2871b04b0ffe0365d3154a913ba3a90ca1533debd7daaafd26d6c7d74f9",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    1200,
+    1400
+  ],
+  "samples": 16,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 90.918,
+  "sources": [
+    {
+      "id": "pinkie_pie",
+      "file": "outputs/color/pinkie_pie.glb",
+      "sha256": "dfcd1f3d96d30f032e4d33d056c67f23f94eaa84838961bbf18c9b7dab5ed29f"
+    }
+  ]
+}

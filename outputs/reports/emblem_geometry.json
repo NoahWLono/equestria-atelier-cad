@@ -1,0 +1,150 @@
+{
+  "status": "passed",
+  "component_count": 158,
+  "flanks": [
+    {
+      "character": "twilight_sparkle",
+      "side": -1,
+      "components": 7,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.71602327882005
+    },
+    {
+      "character": "twilight_sparkle",
+      "side": 1,
+      "components": 7,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.7160232788201
+    },
+    {
+      "character": "applejack",
+      "side": -1,
+      "components": 10,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 195.49839620399214
+    },
+    {
+      "character": "applejack",
+      "side": 1,
+      "components": 10,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 195.49839620399217
+    },
+    {
+      "character": "rainbow_dash",
+      "side": -1,
+      "components": 5,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 206.6317894341173
+    },
+    {
+      "character": "rainbow_dash",
+      "side": 1,
+      "components": 5,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 206.6317894341173
+    },
+    {
+      "character": "pinkie_pie",
+      "side": -1,
+      "components": 10,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 195.77773918881175
+    },
+    {
+      "character": "pinkie_pie",
+      "side": 1,
+      "components": 10,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 195.7777391888118
+    },
+    {
+      "character": "fluttershy",
+      "side": -1,
+      "components": 16,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.66609926547073
+    },
+    {
+      "character": "fluttershy",
+      "side": 1,
+      "components": 16,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.66609926547076
+    },
+    {
+      "character": "rarity",
+      "side": -1,
+      "components": 16,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.19126927882027
+    },
+    {
+      "character": "rarity",
+      "side": 1,
+      "components": 16,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 194.1912692788202
+    },
+    {
+      "character": "princess_celestia",
+      "side": -1,
+      "components": 4,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 215.70093290204238
+    },
+    {
+      "character": "princess_celestia",
+      "side": 1,
+      "components": 4,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 215.70093290204238
+    },
+    {
+      "character": "princess_luna",
+      "side": -1,
+      "components": 4,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 226.3709647083458
+    },
+    {
+      "character": "princess_luna",
+      "side": 1,
+      "components": 4,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 226.3709647083457
+    },
+    {
+      "character": "clockwork_relativity",
+      "side": -1,
+      "components": 7,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 198.83921969658726
+    },
+    {
+      "character": "clockwork_relativity",
+      "side": 1,
+      "components": 7,
+      "exact_fused_solids": 1,
+      "valid": true,
+      "volume_mm3": 198.83921969658724
+    }
+  ]
+}

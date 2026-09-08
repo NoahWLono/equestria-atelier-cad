@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/princess_celestia.png",
+  "sha256": "9605dfdf639f967764e65990aaca5d514a4ed00a5f62153eb007c7782dada1a6",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    1200,
+    1400
+  ],
+  "samples": 16,
+  "camera": "Camera | three-quarter",
+  "units": "meters",
+  "render_seconds": 78.224,
+  "sources": [
+    {
+      "id": "princess_celestia",
+      "file": "outputs/color/princess_celestia.glb",
+      "sha256": "f78bf2908a3e48646f14cfbbb38c2b89966c6ad52affb309ee86ce013e2676d8"
+    }
+  ]
+}

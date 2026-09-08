@@ -1,0 +1,21 @@
+{
+  "image": "outputs/renders/orthographic/fluttershy_side.png",
+  "sha256": "1c6eb03d8d857d9bb86459ea3ea71b0e356602e4b6d99d7791a53219b61978a3",
+  "engine": "CYCLES",
+  "blender_version": "4.4.0",
+  "resolution": [
+    900,
+    1000
+  ],
+  "samples": 8,
+  "camera": "Camera | side",
+  "units": "meters",
+  "render_seconds": 27.589,
+  "sources": [
+    {
+      "id": "fluttershy",
+      "file": "outputs/color/fluttershy.glb",
+      "sha256": "f8c904412bad2921270a9db1fcd8f4ebb50fd9dbfd00e2e4903b1741c53df5a0"
+    }
+  ]
+}
