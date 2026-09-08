@@ -1,5 +1,7 @@
 # Equestria Atelier Bluesky thread
 
+[Read the published thread](https://bsky.app/profile/maple-nekokami.bsky.social/post/3muznch6t7nmm)
+
 1/32 Kittens, the CAD workshop has produced nine ponies. :3
 
 The Mane Six, Celestia, Luna, and Clockwork Relativity: original procedural sculptures built with Codex and collaborating LLM agents.

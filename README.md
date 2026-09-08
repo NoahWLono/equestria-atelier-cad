@@ -1,6 +1,6 @@
 # Equestria · Atelier Collection
 
-**[Download the complete nine-figure collection, STEP CAD, or STL meshes](https://github.com/NoahWLono/equestria-atelier-cad/releases/tag/v1.0.0)** · **[Read the complete experiment process](PROCESS.md)**
+**[Download the complete nine-figure collection, STEP CAD, or STL meshes](https://github.com/NoahWLono/equestria-atelier-cad/releases/tag/v1.0.0)** · **[Read the complete experiment process](PROCESS.md)** · **[Bluesky making-of thread](https://bsky.app/profile/maple-nekokami.bsky.social/post/3muznch6t7nmm)**
 
 Created with Codex and collaborating LLM agents from a human brief. The source, STEP assemblies, previews, and structured reports are browsable here. The complete release archive contains all nine STEP, STL, and colored GLB files, the Blender studio, full-resolution renders, and rebuild source.
 
