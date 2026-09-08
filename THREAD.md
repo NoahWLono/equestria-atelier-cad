@@ -165,7 +165,7 @@ No area-threshold cleanup, vertex movement, or change to bounds or volume. The s
 
 ---
 
-24/32 The exporter writes a candidate, imports it back, validates it, then replaces the final file. A failed candidate cannot silently replace a good output.
+24/32 The STL writer saves a candidate, imports it back, validates it, then replaces the final file. A failed candidate cannot silently replace a good output.
 
 A narrow serialization recovery path can retessellate STEP. Detached design geometry still fails. Clipboard remains firm.
 
