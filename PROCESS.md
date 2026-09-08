@@ -69,7 +69,7 @@ Two tiny enclosed seam cavities in Twilight's geometry were filled during refine
 
 These revisions are a practical consequence of using intersecting solids for organic sculpture. A narrow gap, a buried color accent, and a detached decorative piece can each be almost invisible from a favorable angle. The front, side, and back views provide additional views of the result, while the union checks reveal connectivity that an image cannot establish.
 
-![Clockwork's front, side, and back study with dimensions](outputs/renders/orthographic/clockwork_relativity_sheet.png)
+![Clockwork's front, side, and back study](outputs/renders/orthographic/clockwork_relativity_sheet.png)
 
 ## Establishing a working local toolchain
 
